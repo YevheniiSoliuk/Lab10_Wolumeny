@@ -62,7 +62,7 @@ Wynil polecenia docker stats alpine10
 
 ![Untitled](https://user-images.githubusercontent.com/78736395/170523400-84992407-85b5-4f29-a5da-db8595c1903c.png)
 
-Po wymiku tego polecenia już lepiej widać ograniczenie kontenera po wykorzystaniu pamięci RAM oraz to, że podczas działania kontenera było wysłano 656B danych poprzez interfejs sieciowy kontenera. Zatem można powiedzieć, że skrypt [pluto.sh](http://pluto.sh) wykonał się poprawnie i dane były przesłane do systemu macierzystego.
+Po wymiku tego polecenia już lepiej widać ograniczenie kontenera po wykorzystaniu pamięci RAM oraz to, że podczas działania kontenera było wysłano 656B danych poprzez interfejs sieciowy kontenera. Zatem można powiedzieć, że skrypt pluto.sh wykonał się poprawnie i dane były przesłane do systemu macierzystego.
 
 ## 6. Sprawdzenie poprawności wykonania zadania za pomocą narzędzia cAdvisor
 
